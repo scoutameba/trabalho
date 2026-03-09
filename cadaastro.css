@@ -1,0 +1,25 @@
+body{
+      background-color:rgb(41, 98, 155)
+}
+
+.button {
+      background-color: #4527dc; 
+      color: white; 
+      padding: 12px 24px; 
+      border: none; 
+      border-radius: 25px; 
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease;}
+
+      .buttons{
+            background-color: #4527dc; 
+            color: white; 
+            padding: 12px 24px; 
+            border: none; 
+            border-radius: 25px; 
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;}
